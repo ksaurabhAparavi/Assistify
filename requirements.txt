@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.4.0+cu118
+langchain==0.1.6
+langchain-community==0.0.19 
+langchain-core==0.1.23
+accelerate
+transformers
+cryptography
+unstructured
+qdrant-client
+streamlit
+sentence-transformers
