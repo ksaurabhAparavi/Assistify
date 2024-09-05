@@ -2,8 +2,8 @@
 
 ## Requirements
 
-Scan a source with the Aparavi platform
-Transform task to a milvus DB
+ - Scan a source with the Aparavi platform
+ - Transform task to a milvus DB
 
 ## Steps
 
