@@ -7,6 +7,5 @@
 
 ## Steps
 
-Connect the application to the milvus db
-
-Provide a LLM key
+ - Connect the application to the milvus db
+ - Provide a LLM key
