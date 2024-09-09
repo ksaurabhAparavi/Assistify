@@ -9,3 +9,10 @@
 
  - Connect the application to the milvus db
  - Provide a LLM key
+ - Create a virtual env for python
+ -- `python -m venv .`
+ -- `<venv>/bin/activate`
+ - Install the requirements 
+ -- `pip install -r requirements.txt`
+ - Start the application
+ --  `python3 assistify.py`
